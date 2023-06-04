@@ -11,4 +11,5 @@ much of the savings is because SpaceX can reuse the first stage.
 In this lab, we will make a get request to the SpaceX API and do some basic data wrangling and formating.
 
 Request to the SpaceX API
+
 Clean the requested data
