@@ -12,6 +12,9 @@ much of the savings is because SpaceX can reuse the first stage.
 In this lab, we will make a get request to the SpaceX API and do some basic data wrangling and formating.
 
 1.Request to the SpaceX API
+
 2.Clean the requested data
+
 3.Extract a Falcon 9 launch records HTML table from Wikipedia
+
 4.Parse the table and convert it into a Pandas data frame
