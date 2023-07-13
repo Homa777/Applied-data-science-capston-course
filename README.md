@@ -8,8 +8,16 @@ much of the savings is because SpaceX can reuse the first stage.
 
 ## Objectives:
 
-In this lab, we will make a get request to the SpaceX API and do some basic data wrangling and formating.
+In this lab we are going to do the following:
 
-Request to the SpaceX API
+Request to the SpaceX API to collect data
 
-Clean the requested data
+Understand the Spacex DataSet
+
+Exploring data using EDA
+
+Launch Sites Locations Analysis with Folium
+
+Space X Falcon 9 First Stage Landing Prediction
+
+
