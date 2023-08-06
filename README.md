@@ -1,4 +1,4 @@
-# Watson_studio
+# Applied-data-science-capston-course
 
 This repository created as a part of assignment of coursera IBM Applied data science capston course to get certification and practise the data wrangling 
 and data collection through API and webscraping by BeautifulSoup library.
