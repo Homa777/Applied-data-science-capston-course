@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+
 """
 # Import required libraries
 import pandas as pd
